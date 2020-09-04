@@ -1,24 +1,6 @@
-# README
+# Ruby on Rails チュートリアル：サンプルアプリケーション
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+これは以下で使用する最初のアプリケーションです。
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.jp/)
+by [Michael Hartl](http://www.michaelhartl.com/).
